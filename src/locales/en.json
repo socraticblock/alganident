@@ -1,0 +1,103 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "specialists": "Our Specialists",
+    "achievements": "Our Achievements",
+    "services": "Services & Pricing",
+    "contact": "Contact Us",
+    "book": "Book Appointment"
+  },
+  "hero": {
+    "experience": "25 Years of Experience",
+    "title_part1": "Algani Dent —",
+    "title_accent": "Your Healthy",
+    "title_part2": "Smile",
+    "subtitle": "Premium dental care with over 25 years of clinical excellence. Discover high-quality treatments at the most competitive prices in Tbilisi.",
+    "cta_primary": "Get Started",
+    "cta_secondary": "View Prices",
+    "floating_badge": "Years Experience",
+    "floating_subtitle": "Professionalism"
+  },
+  "about": {
+    "title": "25 Years of Experience",
+    "title_accent": "For Your Health",
+    "narrative": "Algani Dent Medical & Educational Dental Clinic represents a fusion of 25 years of professional clinical experience and modern innovation. Since 2006, our team of highly qualified specialists has provided comprehensive dental care for both children and adults. Equipped with state-of-the-art technology and a commitment to patient comfort, our mission remains simple: ensuring your smile is healthy and beautiful.",
+    "metric_safety": "Safety",
+    "metric_safety_desc": "Highest standards of sterilization",
+    "metric_exp": "Experience",
+    "metric_exp_desc": "25 years in dentistry",
+    "metric_qual": "Qualification",
+    "metric_qual_desc": "Professional specialists"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "A full range of professional dental services for you and your family.",
+    "items": {
+      "therapy": "Therapeutic Dentistry",
+      "pediatric": "Pediatric Dentistry",
+      "surgery": "Surgical Dentistry",
+      "orthopedics": "Prosthodontics (Orthopedics)",
+      "orthodontics": "Orthodontics",
+      "gnathology": "Gnathology",
+      "implantology": "Implantology",
+      "aesthetic": "Aesthetic Dentistry",
+      "periodontics": "Periodontics"
+    },
+    "desc": "Latest methods and modern equipment for the best results."
+  },
+  "specialists": {
+    "title": "Our Specialists",
+    "subtitle": "Meet our team — professionals who care about your smile.",
+    "role": "Dentist"
+  },
+  "pricing": {
+    "title": "Services & Pricing",
+    "subtitle": "Transparent pricing and best quality. Save with us.",
+    "categories": {
+      "therapy": "Therapeutic",
+      "pediatric": "Pediatric",
+      "surgery": "Surgical",
+      "orthodontics": "Orthodontics",
+      "implantology": "Implantology",
+      "aesthetics": "Aesthetics",
+      "prosthetics": "Prosthetics"
+    },
+    "items": {
+      "caries": "Caries (Cavity) Treatment",
+      "pulpitis": "Pulpitis & Periodontitis",
+      "restoration": "Aesthetic Restoration",
+      "child_caries": "Child Caries Treatment",
+      "child_cleaning": "Pediatric Cleaning",
+      "child_extraction": "Simple Extraction",
+      "extraction": "Standard Extraction",
+      "wisdom_tooth": "Wisdom Tooth Extraction",
+      "zirconium": "Zirconium Ceramic Crown",
+      "metal_ceramic": "Metal Ceramic Crown",
+      "braces": "Braces (Fixed)",
+      "aligners": "Clear Aligners",
+      "whitening": "Professional Whitening",
+      "veneers": "Dental Veneers",
+      "jewelry": "Dental Jewelry (Skyce)",
+      "implant": "Implantation"
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say"
+  },
+  "footer": {
+    "contact_title": "Contact Us",
+    "contact_subtitle": "Contact us anytime. We are ready to answer all your questions.",
+    "address_label": "Address",
+    "address_value": "19 Vakhushti Bagrationi St, Didube, Tbilisi, Georgia",
+    "phone_label": "Phone",
+    "mail_label": "Email",
+    "form_name": "Full Name",
+    "form_email": "Email Address",
+    "form_message": "Your Message",
+    "form_placeholder_name": "Full Name",
+    "form_placeholder_msg": "How can we help you?",
+    "form_submit": "Send Message",
+    "copyright": "© 2023 - 2026 Algani Dent. All Rights Reserved."
+  }
+}
